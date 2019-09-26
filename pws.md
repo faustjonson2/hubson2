@@ -28,8 +28,11 @@ for phrases 80%.
 Select the topic of the articles demanded. Which articles are in demand, it is easy to check on the home page of the Advego website in the line "Popular sections".
 
 Please note that this way of making money has a nuance: moderators carefully verify errors and do not miss an article with minor flaws or typos. There are 3 attempts to correct, after which the entrance to the Advego article store is blocked from 3 to 7 days.
+<br/>
 <a href="https://www.essayhave.com/research-paper-writing-service.html">Research Paper Writing Service • 100% Reliable</a>
-Affiliate Earnings
+
+<br/>
+<b>Affiliate Earnings</b>
 Advego has a profitable program to attract new users. For each unique visitor registered by an individual link, the referrer receives 25% of the commission for his turnover. The income has no expiration date and is paid in any case.
 
 For example, your partner works a couple of hours a day and earns 5000 rubles a month. The commission charged by Advego 10%, from the above amount comes out 500 rubles. In this case, you will get 25%, that is 125 rubles per month in the form of passive income. The amount is small, but if there are several referrals, then the level of earnings increases exponentially.
