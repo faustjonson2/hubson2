@@ -40,6 +40,12 @@ For example, your partner works a couple of hours a day and earns 5000 rubles a 
 Advego has prepared special link and banner templates for email, forums, and blogs.
 
 Advego affiliate program does not contain flaws, the total income depends only on user activity.
+<ul>
+	<li><a href="https://github.com/faustjonson2/hubson2/blob/master/wrs.md">Essay Writing Service</a></li>
+	<li><a href="https://github.com/faustjonson2/hubson2/blob/master/pws.md">Paper Writing Service</a></li>
+	<li><a href="https://github.com/faustjonson2/hubson2/blob/master/dmh.md">Do My Homework</a></li>
+	<li><a href="https://github.com/faustjonson2/hubson2/blob/master/words-to-pages.md">Words to Pages</a></li>
+</ul>
 
 Earnings on the placement of links
 Forum regulars can earn by posting links. The advantage is naturally in active accounts with a positive reputation. In the tasks of Advego, such orders are also found under the name "crowd marketing". It is required to find a topic on the forums with a given topic and leave a comment with an active or inactive link.
