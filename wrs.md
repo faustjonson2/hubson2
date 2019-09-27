@@ -14,6 +14,12 @@
 At the beginning of this article, I wrote that copywriting is the art of writing sales texts. On the same copywriting exchanges you can find a permanent job. If you write really cool texts that are breathtaking, evoke positive emotions and make people take some kind of action, then the employers will find you.
 
 After some time working on writing articles, start writing on more commercial topics, using selling properties, with exciting headlines and texts interesting to the reader.
+<ul>
+	<li><a href="https://github.com/faustjonson2/hubson2/blob/master/wrs.md">Essay Writing Service</a></li>
+	<li><a href="https://github.com/faustjonson2/hubson2/blob/master/pws.md">Paper Writing Service</a></li>
+	<li><a href="https://github.com/faustjonson2/hubson2/blob/master/dmh.md">Do My Homework</a></li>
+	<li><a href="https://github.com/faustjonson2/hubson2/blob/master/words-to-pages.md">Words to Pages</a></li>
+</ul>
 
 In the framework of this article I will not tell you what the selling text is, how it looks and what its structure is. This is a whole science. This can be talked about indefinitely. But still there are basic rules, which we will talk about in other articles.
 
