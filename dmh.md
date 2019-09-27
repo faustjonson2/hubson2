@@ -15,6 +15,14 @@ Therefore, always check the search demand and competition for keywords for the b
 
 Read a lot. In knowledge is power. There are a lot of blogs with authors who are pros in SEO-copyright. Do not get fooled by various master classes from amateurs, and you will be happy.
 
+<ul>
+	<li><a href="https://github.com/faustjonson2/hubson2/blob/master/wrs.md">Essay Writing Service</a></li>
+	<li><a href="https://github.com/faustjonson2/hubson2/blob/master/pws.md">Paper Writing Service</a></li>
+	<li><a href="https://github.com/faustjonson2/hubson2/blob/master/dmh.md">Do My Homework</a></li>
+	<li><a href="https://github.com/faustjonson2/hubson2/blob/master/words-to-pages.md">Words to Pages</a></li>
+</ul>
+
+
 <b>Copyright on a personal blog</b>
 This is a very long and thorny journey. It provides for future passive income, but for such income the first 3 years you need to be a very active scribbler, optimizer, SEO, designer. But you just learn a lot:
 Website creation (albeit on a template, nothing terrible and shameful)
